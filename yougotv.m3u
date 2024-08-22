@@ -3,7 +3,9 @@
 #EXTINF:-1 tvg-id="⚠️ INFORMASI ⚠️" tvg-logo="https://static.a-n.co.uk/wp-content/uploads/2017/10/Free.jpg" group-title="⚠️ INFORMASI ⚠️",T.ME/YOUGOTV
 https://raw.githubusercontent.com/Maulana962/playlisttv/main/lv_0_20240820164543.mp4
 
-
+##########################
+########LIVE EVENT########
+##########################
 
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BRI_Liga_1.svg/300px-BRI_Liga_1.svg.png",LIVE 1
 https://raw.githubusercontent.com/Acil2125/ee/main/sspl.m3u8
@@ -1159,53 +1161,6 @@ https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" group-title="CAMPURAN",HITS
 https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8
-
-
-
-##########################
-########LIVE EVENT########
-##########################
-
-#EXTINF:-1 tvg-logo="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="EVENT",AFFU19 SCTV
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://azid.serv00.net/nasional/sctv.m3u8
-//https://cors-anywhere-batou.herokuapp.com/https://basitv.pages.dev/hsctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT",PIALA PRESIDEN 2024
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://azid.serv00.net/nasional/indosiar.m3u8
-//https://cors-anywhere-batou.herokuapp.com/https://basitv.pages.dev/hindos.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT",PIALA PRESIDEN 2024
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722786171~acl=/drm/dash/*~id=161176528~hmac=e0167a582caf8d584ca0e6d688e852dc6aabcec0ea383a2ddcef228e9b5c11f9
-
-#EXTINF:-1 tvg-id="rtm.my" tvg-logo="https://i.postimg.cc/HsHSTRRn/IMG_1849.jpg" group-title="EVENT",OLIMPIADE PARIS 2024
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
-
-#EXTINF:-1 tvg-id="RTM2.MY" tvg-logo="https://i.postimg.cc/HsHSTRRn/IMG_1849.jpg" group-title="EVENT",OLIMPIADE PARIS 2024
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
-
-#EXTINF:-1 tvg-id="rtm3.my" tvg-logo="https://i.postimg.cc/HsHSTRRn/IMG_1849.jpg" group-title="EVENT",OLIMPIADE PARIS 2024
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
-
-#EXTINF:-1 tvg-id="rtm4.my" tvg-logo="https://i.postimg.cc/HsHSTRRn/IMG_1849.jpg" group-title="EVENT",OLIMPIADE PARIS 2024
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
-
-#EXTINF:-1 tvg-id="rtm5.my" tvg-logo="https://i.postimg.cc/HsHSTRRn/IMG_1849.jpg" group-title="EVENT",OLIMPIADE PARIS 2024
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
-
-#EXTINF:-1 tvg-id="rtm6.my" tvg-logo="https://i.postimg.cc/HsHSTRRn/IMG_1849.jpg" group-title="EVENT",OLIMPIADE PARIS 2024
-https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
-
-#EXTINF:-1 tvg-id="Astra.my" tvg-logo="https://i.postimg.cc/4yGrkdpN/720.jpg" group-title="EVENT",OLIMPIADE PARIS 2024
-https://linear14-playback.sooka.my/CH2/masterCH2.mpd
-
-#EXTINF:-1 tvg-id="aset.my" tvg-logo="https://i.postimg.cc/4yGrkdpN/720.jpg" group-title="EVENT",OLIMPIADE PARIS 2024
-https://linear14-playback.sooka.my/CH3/masterCH3.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey

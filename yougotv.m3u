@@ -7,6 +7,25 @@ https://raw.githubusercontent.com/Maulana962/playlisttv/main/lv_0_20240820164543
 ########LIVE EVENT########
 ##########################
 
+
+#EXTINF:-1 tvg-id="ts812" tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="NEW",EUROSPORT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
+
+#EXTINF:-1 tvg-id="Eurosport 2.sk" tvg-logo="" group-title="NEW", EUROSPORT 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+
+
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BRI_Liga_1.svg/300px-BRI_Liga_1.svg.png",LIVE 1
 https://raw.githubusercontent.com/Acil2125/ee/main/sspl.m3u8
 

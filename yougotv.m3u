@@ -927,6 +927,14 @@ https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="TURKI",ZAROK TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="..." tvg-logo="https://www.sportstv.com.tr/assets/images/sportstv/trnsplogo.png" group-title="TURKI",SPORTS TV
+
+#EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="TURKI",BEIN SPORTS HABER
+https://yayin2.canlitv.fun/live/beinsporthaber.stream/chunklist_w1251727722.m3u8?hash=f50669398eb048712c14116f87ccdb43
+
+
+
+
 ##########################
 ########  INDIA   ########
 ##########################

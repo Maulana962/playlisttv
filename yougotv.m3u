@@ -10,11 +10,26 @@ https://raw.githubusercontent.com/Maulana962/playlisttv/main/lv_0_20240820164543
 #EXTINF:-1 tvg-id="..." tvg-logo="..." group-title="NEW",EPL
 https://lebo.huminbird.cn/live/ballbar_39950.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="..." group-title="NEW",EPL
-https://lebo.huminbird.cn/live/ballbar_19140.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/true-premier-football-hd-1.png" group-title="NEW",TRUE PREMIER FOOTBALL HD 1
-https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",TRUE PREMIER FOOTBALL 1
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://playidtv24.vercel.app/stream/now/premier1.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",TRUE PREMIER FOOTBALL 2
+https://playidtv24.vercel.app/stream/now/premier2.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",TRUE PREMIER HD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://playidtv24.vercel.app/stream/now/premier3.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",TRUE PREMIER HD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://playidtv24.vercel.app/stream/now/premier4.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",TRUE PREMIER HD 5
+#EXTVLCOPT:http-referrer=https://7mthai.net
+#https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
+https://playidtv24.vercel.app/stream/now/premier5.m3u8
 
 #EXTINF:-1 tvg-id="ts812" tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="NEW",EUROSPORT HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1207,15 +1222,21 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48500.m3u8
 #EXTINF:-1 tvg-id="RDBL.AS" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/redbull-tv-min.png" group-title="CAMPURAN",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d04y4S42/GTV.png" group-title="CAMPURAN", GTV (R+)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d04y4S42/GTV.png" group-title="CAMPURAN", GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/PJhxzfhS/RCTI.png" group-title="CAMPURAN",RCTI (R+)
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/PJhxzfhS/RCTI.png" group-title="CAMPURAN",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13bT4JpK/mnctv.png" group-title="CAMPURAN",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" group-title="CAMPURAN",ANIMAX
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8

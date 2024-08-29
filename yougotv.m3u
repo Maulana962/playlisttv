@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="UPDATE GABUNG TELE" tvg-logo="" group-title="UPDATE.ID",T.ME/YOUGOTV
+#EXTINF:-1 tvg-id="UPDATE GABUNG TELE" tvg-logo="https://www.qacps.org/kihs/wp-content/uploads/sites/20/2023/08/Update-1-768x429.jpg" group-title="UPDATE GABUNG TELE",T.ME/YOUGOTV
 https://raw.githubusercontent.com/Maulana962/playlisttv/main/lv_0_20240820164543.mp4

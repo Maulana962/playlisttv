@@ -720,9 +720,10 @@ https://v2.siar.us/mic/live/playlist.m3u8
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/tCM9Mpm/musik-indo.png" group-title="INDONESIA",Musik Indonesia
 https://cdn09jtedge.indihometv.com/joss/134/musikindo720/chunklist_w1686843903_b944100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="..." group-title="INDONESIA",PADANG TV
-https://ase11-0.playlist.ttvnw.net/v1/playlist/CqgGUYn4xXUHyImKMjaMzaytNFeYC6a3rSIbROKb9wjmV8F5Aw2Id9JfWziCjumfmWiqVtkZuvGkustRLgIUj_9p9jhWD3q4NtX3P0XCQVkQ40d2zPN0Tghiz4XF3uPCH7_OfZKB7cTmNDityClOnZ5H8VfOp3cE7EUC3sKj4HAKNFts7sIQYaETtnsDj2tMUJKmRneT-sMWqzOWDLcooREnhxw8kkK67rAZb9M3Rv7BkH-lp02j_IDbmvqVsQwKs6BsukqEPAlqh11aWf3LnosvXun_zoihkY8a4IRKU0tKrfDigi39a1VvittDGnpvQzs7N-wSHy5Dgt9kInSIju0l3Av8t_axDAMgp8jdXmWVMq978fR2gFOjja-KJVL7wBCu3Y92EYpSBM0qE6Xy-ckrnokFTKk5RFyDGp8vDsK2kGl9hdgpqllwe-q2VjgGGwwrBFBPTS5sEcDNDTGfUqc0pbGmDn0tY30e_oJl2rgiGXe4747txF_41QPtTaI4LF6vy4KSOUpvL85taHmbI3lNMfCaztf-tgqKMylf3uv5mDMhhT0bwty6EhSCshvFMNWAJ3c1eaO0GC2sZfwRWSvJFRfquh3sRaCgrLKxZQVcq2M_4939nAZ8JngP4abn0aZm70H9ZiQgCb-DZ1-4bJ4C7NSsSi9fB5lE6JDm7I0OROTO7PdWvwf61Y_5NjbklgS6GGCXKKSJ_VjZttmmikvRnZ0OEJG0tOjdB9nukJS3uuOh0mkMwOgunOb_jqAcfNQpZMkPwA-5MCx1hympxOpRZKrg_q0VFfkZUlwyH3x9l4vLSOOZg3UquKIki7oybRyS1ukkL-uAGup_4JLRCp-WLr2_hqxavUCprSyZhAcbVPjjcl9g7TJlqTj4IHsGYFSBXYyddo1B7SQ4eAOoSMPgIcn8nHjz7Co7BiALo1X0aGLF23OtJnd2mYzu1h_CbwkrqrHj-BcQ8mDiy45r6kmDhcorg5PQHEOUrWU4S6WDaDpeJ3a9SkKQEA-2jgd3rFDgoF5f4-ZuzZmFeugk-nbyLfYUdhEZp8_NLm6vsRQKS5t3BRy0UAj71BoM9v6Dr7nGNp7jkXh1IAEqCXVzLXdlc3QtMjDVCg.m3u8
-
+#EXTINF:-1 tvg-id="..." tvg-logo="https://padangtv.id/wp-content/uploads/2020/07/logo1-e1595189708614.png" group-title="INDONESIA",PADANG TV
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w883744484.m3u8
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i0.wp.com/langgam.id/wp-content/uploads/2019/12/Logo-Bukittinggi.jpg?resize=750,422&ssl=1" group-title="INDONESIA", BUKITTINGGI TV
+https://63b2dc7196c38.streamlock.net:1937/pandaisikek/myStream/media_w692076364_18804.ts
 ##########################
 ######## MALAYSIA ########
 ##########################

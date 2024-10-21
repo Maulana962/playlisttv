@@ -792,6 +792,8 @@ https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
 #EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/โลโก้ช่อง5.png/800px-โลโก้ช่อง5.png" group-title="THAILAND",CHANNEL 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w2100015713.m3u8
 
+#EXTINF:-1 tvg-id="..." tvg-logo="https://online-television.net/uploads/posts/2023-03/thumbs/channel8thailand.webp" group-title="THAILAND",Channel 8
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
 
 ##########################
